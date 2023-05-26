@@ -1,2 +1,5 @@
 .DS_STORE
+.vscode
 /fizzbuzz/target
+/mars-rover/target
+/evercraft/target
