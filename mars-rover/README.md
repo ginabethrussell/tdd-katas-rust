@@ -1,4 +1,8 @@
-# Instructions
+# Codurance Mars Rover Katalyst
+
+[Description](https://www.codurance.com/katalyst/mars-rover)
+
+## Instructions
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.
 
@@ -49,3 +53,7 @@ class MarsRover {
 
 The rover receives a char array of commands e.g. RMMLM and returns the finishing point after the moves e.g. 2:1:N
 The rover wraps around if it reaches the end of the grid.
+
+## Solution Walk Thru
+
+[Mars Rover - Rust - Codurance Screenkata](https://www.youtube.com/watch?v=LKrHLdXOcnc)
